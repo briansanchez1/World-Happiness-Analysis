@@ -18,14 +18,14 @@ I created a time series analysis to examine how global happiness levels have flu
 In addition to time series, I examined correlations between global happiness and other factors, including region, education, and economic stability. This analysis aimed to understand the relationships between these factors and happiness levels, which can provide insights into what drives happiness.
 
 ## Results
-![img1](/World-Happiness-Analysis//Graph/global_happiness_trend.png)
+![img1](https://github.com/briansanchez1/World-Happiness-Analysis/blob/main/Graph/global_happiness_trend.png)
 
 The analysis of happiness scores over time revealed a notable pattern. In 2007, happiness levels began at a relatively low point, followed by a gradual decline in subsequent years. However, between 2016 and 2020, happiness levels saw a sharp increase, reaching an all-time high. The rise in happiness in this period contrasts with the sharp decline in 2021 and 2022, likely due to the COVID-19 pandemic, which brought unprecedented health, social, and economic challenges to the global population.As of the most recent data in 2023, happiness levels are on the rise again, but it remains uncertain whether this upward trend will continue. 
 
-![img2](/World-Happiness-Analysis//Graph/happiness_by_education_by_region.png)
+![img2](https://github.com/briansanchez1/World-Happiness-Analysis/blob/main/Graph/happiness_by_education_by_region.png)
 There seems to be a slight bit of a correlation between education and happiness. The general conclusion to make from this is that the regions that report low happiness will have lower years of schooling, relative to the other regions.
 
-![img1](/World-Happiness-Analysis//Graph/happiness_vs_economic_stability.png)
+![img3](https://github.com/briansanchez1/World-Happiness-Analysis/blob/main/Graph/happiness_vs_economic_stability.png)
 The trend we see from the data might not be extremely convincing but taking into consideration the fact that this is not the only factor that contributes to happiness, this trend is consistent with existing research. However, it is worth noting that this correlation does not necessarily imply causality. In terms of economic stability, while the correlation between a stable economy and happiness exists, political stability, environmental factors, and cultural attitudes once again all play significant roles in determining the overall well-being of a population. 
 
 ## Discussion
